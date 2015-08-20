@@ -1,0 +1,23 @@
+{
+  "name": "voltj",
+  "version": "1.0.0",
+  "description": "VOLTJ Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj16123/voltj.git"
+  },
+  "author": "Thomas Moore (a.k.a VOLTJ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tj16123/voltj/issues"
+  },
+  "homepage": "https://github.com/tj16123/voltj#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
