@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,IAAI,CACH,UAAU,CAAE,OAAO,CAEpB,IAAI,CACH,WAAW,CAAE,UAAU,CACvB,UAAU,CAAE,6BAA6B,CAE1C,EAAE,CACD,SAAS,CAAE,IAAI",
-"sources": ["../scss/voltj.scss"],
-"names": [],
-"file": "voltj.css"
-}
